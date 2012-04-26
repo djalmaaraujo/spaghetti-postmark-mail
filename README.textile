@@ -1,6 +1,6 @@
 h1. Usage
 
-$postmark = new Postmark(
+bc. $postmark = new Postmark(
 	'postmark-api-key,
 	'From Name <from@name.com>,
 	'email@reply.com'
