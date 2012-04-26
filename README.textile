@@ -1,6 +1,6 @@
 h1. Usage
 
-bq. $postmark = new Postmark(
+$postmark = new Postmark(
 	'postmark-api-key,
 	'From Name <from@name.com>,
 	'email@reply.com'
